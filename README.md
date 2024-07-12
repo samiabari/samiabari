@@ -1,6 +1,15 @@
 
 [![MasterHead](https://github.com/samiabari/samiabari/blob/main/Banner.jpg)](https://www.samiabari.com)
 <img align="center" alt="Coding" src="https://tenor.com/view/work-internet-computer-penguin-working-gif-10660376455808528935">
+
+<iframe src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen>
+</iframe>
+<p>
+<a href="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt">
+</a>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Samia Bari</h1>
 <h3 align="center">A fun-loving Software Developer, always ready to debug with a smile and a cup of coffee. Still mastering the art of coding, but loving every bit of the journey!"</h3>
 
