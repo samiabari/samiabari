@@ -2,19 +2,15 @@
 [![MasterHead](https://github.com/samiabari/samiabari/blob/main/Banner.jpg)](https://www.samiabari.com)
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJtMWJrdmhrZzkxcm5sejc0YzZyc2xhb2FueGtrZGE4eHB2bmhjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.webp" alt="gif" width="400" height="400">
-</div>
-<div align="center">
-  <img src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" alt="gif" width="400" height="400">
+  <img src="https://i.giphy.com/L3nWlmgyqCeU8.webp" alt="gif" width="400" height="400">
 </div>
 
 <h1 align="center">Hi 👋, I'm Samia Bari</h1>
 <h3 align="center">A fun-loving Software Developer, always ready to debug with a smile and a cup of coffee. Still mastering the art of coding, but loving every bit of the journey!"</h3>
 
 <p>&nbsp;</p>
-<br/><br/>
+<br/>
 
-- 🔭 I’m currently working on **Interview Scheduler App**
 
 - 🌱 I’m currently learning **React, Angular, Asp.Net Core, Entity Framework Core, Java EE, Python**
 
