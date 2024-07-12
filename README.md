@@ -94,8 +94,8 @@
 <p>&nbsp;</p>
 
 <div align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=samiabari&show_icons=true&locale=en&layout=compact" alt="samiabari" />
-<img  src="https://github-readme-stats.vercel.app/api?username=samiabari&show_icons=true&locale=en" alt="samiabari" />
+<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiabari&show_icons=true&locale=en&layout=compact" alt="samiabari" />
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=samiabari&show_icons=true&locale=en" alt="samiabari" />
 </div>
 
 
