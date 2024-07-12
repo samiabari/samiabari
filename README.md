@@ -1,5 +1,5 @@
 
-[![MasterHead]()](https://rishavchanda.io)
+[![MasterHead](https://github.com/samiabari/samiabari/blob/main/Banner.jpg)](https://www.samiabari.com)
 <h1 align="center">Hi 👋, I'm Samia Bari</h1>
 <h3 align="center">A fun-loving Software Developer, always ready to debug with a smile and a cup of coffee. Still mastering the art of coding, but loving every bit of the journey!"</h3>
 <img align="right" alt="Coding" width="400" src="https://tenor.com/view/work-internet-computer-penguin-working-gif-10660376455808528935">
