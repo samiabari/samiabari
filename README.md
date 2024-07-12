@@ -84,15 +84,16 @@
 
 
 <br><br>
-<p>&nbsp;
 
-</p>
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samiabari&" alt="samiabari" />
 </p>
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiabari&show_icons=true&locale=en&layout=compact" alt="samiabari" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=samiabari&show_icons=true&locale=en" alt="samiabari" />
+</p>
+<p>&nbsp;
+
 </p>
 <br><br>
 <h3 align="left">Support:</h3>
