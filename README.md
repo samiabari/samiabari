@@ -5,8 +5,8 @@
   <img src="https://i.giphy.com/L3nWlmgyqCeU8.webp" alt="gif" width="400" height="400">
 </div>
 
-<h1 align="center">Hi 👋, I'm Samia Bari</h1>
-<h3 align="center">A fun-loving Software Developer, always ready to debug with a smile and a cup of coffee. Still mastering the art of coding, but loving every bit of the journey!"</h3>
+<h1 align="center">Hi!!! 😁</h1>
+<h3 align="center">I'm a fun-loving Software Developer, always ready to debug with a smile and a cup of coffee. Still mastering the art of coding, but loving every bit of the journey!"</h3>
 
 <p>&nbsp;</p>
 <br/>
@@ -76,7 +76,8 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 </a> 
 </p>
-<br/><br/>
+
+<br/>
 <h3 align="left">🔬 Stats of the Github projects</h3> 
 
 <div align="center">
