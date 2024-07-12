@@ -91,14 +91,15 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=samiabari&" alt="samiabari" />
 </div>
 
-<p>
+<p>&nbsp;</p>
+<div>
 <div align="left">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=samiabari&show_icons=true&locale=en&layout=compact" alt="samiabari" />
 </div>
 <div align="right">
 <img  src="https://github-readme-stats.vercel.app/api?username=samiabari&show_icons=true&locale=en" alt="samiabari" />
 </div>
-</p>
+</div>
 
 <p>&nbsp;</p>
 
