@@ -77,7 +77,7 @@
 </a> 
 </p>
 
-<br/>
+<p>&nbsp;</p>
 <h3 align="left">🔬 Stats of the Github projects</h3> 
 
 <div align="center">
