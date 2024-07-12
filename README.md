@@ -11,6 +11,8 @@
 <h1 align="center">Hi 👋, I'm Samia Bari</h1>
 <h3 align="center">A fun-loving Software Developer, always ready to debug with a smile and a cup of coffee. Still mastering the art of coding, but loving every bit of the journey!"</h3>
 
+<p>&nbsp;</p>
+<br/><br/>
 
 - 🔭 I’m currently working on **Interview Scheduler App**
 
