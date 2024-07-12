@@ -87,9 +87,9 @@
 
 <br><br>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samiabari&" alt="samiabari" />
-</p>
+<div align="center">
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=samiabari&" alt="samiabari" />
+</div>
 
 <p>
 <div align="left">
