@@ -92,14 +92,12 @@
 </div>
 
 <p>&nbsp;</p>
-<div>
-<div align="left">
+
+<div align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=samiabari&show_icons=true&locale=en&layout=compact" alt="samiabari" />
-</div>
-<div align="right">
 <img  src="https://github-readme-stats.vercel.app/api?username=samiabari&show_icons=true&locale=en" alt="samiabari" />
 </div>
-</div>
+
 
 <p>&nbsp;</p>
 
