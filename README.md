@@ -91,10 +91,11 @@
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiabari&show_icons=true&locale=en&layout=compact" alt="samiabari" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=samiabari&show_icons=true&locale=en" alt="samiabari" />
 </p>
 
 <p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=samiabari&show_icons=true&locale=en" alt="samiabari" />
+
 </p>
 
 <p>
