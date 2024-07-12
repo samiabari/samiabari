@@ -78,7 +78,6 @@
 </p>
 <br/><br/>
 <h3 align="left">🔬 Stats of the Github projects</h3> 
-<p>&nbsp;</p>
 
 <div align="center">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=samiabari&" alt="samiabari" />
