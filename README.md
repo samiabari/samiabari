@@ -90,10 +90,8 @@
 <!--<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiabari&show_icons=true&locale=en&layout=compact" alt="samiabari" /> -->
 
 <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiabari&show_icons=true&locale=en&hide_border=true" alt="samiabari" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=encryptedtouhid&theme=vue-dark&hide_border=true"  alt="JasonTaylorDev GitHub Top Languages" />
 
-
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=samiabari&show_icons=true&locale=en" alt="samiabari" />
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=samiabari&show_icons=true&locale=en&theme=vue-dark" alt="samiabari" />
 
 </div>
 
