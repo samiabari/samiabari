@@ -89,7 +89,7 @@
 <div align="center">
 <!--<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiabari&show_icons=true&locale=en&layout=compact" alt="samiabari" /> -->
 
-<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiabari&theme=vue-dark&locale=en&layout=compact" alt="samiabari" />
+<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiabari&show_icons=true&locale=en&hide_border=true" alt="samiabari" />
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=encryptedtouhid&theme=vue-dark&hide_border=true"  alt="JasonTaylorDev GitHub Top Languages" />
 
 
