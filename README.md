@@ -88,10 +88,7 @@
 
 <div align="center">
 <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiabari&show_icons=true&locale=en&layout=compact" alt="samiabari" />
-///  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samiabari&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" alt="JasonTaylorDev's GitHub Stats" />
-  
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=samiabari&show_icons=true&locale=en&theme=vue-dark&count_private=true&hide_border=true" alt="samiabari" />
-  
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=samiabari&show_icons=true&locale=en" alt="samiabari" />
 </div>
 
 
