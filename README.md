@@ -1,20 +1,18 @@
 
-[![MasterHead](https://github.com/samiabari/samiabari/blob/main/Banner.jpg)](https://www.samiabari.com)
-
 <div align="center">
   <img src="https://i.giphy.com/L3nWlmgyqCeU8.webp" alt="gif" width="400" height="400">
 </div>
 
 <h1 align="center">I'm Samia!!! 😁</h1>
-<h3 align="center">A fun-loving Software Developer, always ready to debug with a smile and a cup of coffee. Still mastering the art of coding, but loving every bit of the journey!"</h3>
+<h3 align="center">I don’t just debug code — I debug processes, workflows, and occasionally chaos.</h3>
 
 <p>&nbsp;</p>
 <br/>
 
 
-- 🌱 I’m currently learning **React, Angular, Asp.Net Core, Entity Framework Core, Java EE, Python**
+- 🌱 I’m currently learning **React, Asp.Net Core, Entity Framework Core, Java EE, Python**
 
-- 👨‍💻 All of my projects are available at [www.samiabari.com](www.samiabari.com)
+- 👨‍💻 All of my current project details are available at [www.samiabari.com](www.samiabari.com)
 
 - 💬 Ask me about **Asp.Net, C#**
 
