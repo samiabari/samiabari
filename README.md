@@ -76,10 +76,7 @@
 </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-</a>
-<a href="[https://p](https://www.adobe.com/sg/products/photoshop.html)" target="_blank" rel="noreferrer"> 
-<img src="[https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg](https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-ar21.svg)" alt="postman" width="40" height="40"/> 
-</a>   
+</a>  
 </p>
 
 <p>&nbsp;</p>
