@@ -10,11 +10,15 @@
 <br/>
 
 
-- 🌱 I’m currently learning **React, Asp.Net Core, Entity Framework Core, Java EE, Python**
+- 🌱 Working across systems, operations, and workflows, with a focus on keeping processes structured and running smoothly**
 
 - 👨‍💻 All of my current project details are available at [www.samiabari.com](www.samiabari.com)
 
-- 💬 Ask me about **Asp.Net, C#**
+- 🧩 Involves coordination, requirement understanding, and improving how tasks and teams align in practice
+
+- 🗂️ Background includes working with data, systems, and maintaining organized, reliable processes
+
+- 👥 Also includes exposure to team support, coordination, and day-to-day operational needs
 
 - 📫 How to reach me **me@samiabari.com**
 
