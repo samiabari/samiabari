@@ -91,8 +91,8 @@
 <div align="center">
 <!--<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiabari&show_icons=true&locale=en&layout=compact" alt="samiabari" /> 
 -->
- <img height="170em" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=encryptedtouhid&&theme=github_dark_dimmed" alt="GitHub Stats" />
-<img height="170em" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=encryptedtouhid&&theme=github_dark_dimmed" alt="Top Languages" />
+ <img height="170em" src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=samiabari&&theme=github_dark_dimmed" alt="GitHub Stats" />
+<img height="170em" src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=samiabari&&theme=github_dark_dimmed" alt="Top Languages" />
 
 
 </div>
